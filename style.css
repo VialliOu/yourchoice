@@ -1,0 +1,48 @@
+#logo {
+  padding-top: 113px;
+}
+.ui.container{
+  padding-top: 70px;
+}
+
+.ui.borderless.bottom.menu {
+  box-shadow: none;
+  border: none;
+  padding-top: 70px;
+  padding-left: 130px;
+  padding-bottom: 70px;
+  font-family: 'Fira Mono', monospace;
+  font-size: 11px;
+}
+body {
+  font-family: 'Fira Mono', monospace;
+  font-size: 11px;
+  color: #666;
+}
+
+.ui.six.column.grid{
+  grid-column-gap: 0px;
+}
+
+.ui.compact.menu{
+  box-shadow: none;
+  border: none;
+  font-family: 'Fira Mono', monospace;
+  font-size: 11px;
+  color: #666;
+}
+
+.ui.six.column.grid{
+  margin: 0px;
+  padding-right: 10%;
+}
+
+.column{
+  height: 130%;
+  width: 130%;
+  margin: -13px;
+}
+
+#middleimg{
+
+}
